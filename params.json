@@ -1,0 +1,6 @@
+{
+  "name": "Scoretracer",
+  "tagline": "A web scrapping project that scraps data from cricinfo.com to display the details of the latest matches ongoing",
+  "body": "### Welcome to SCORE TRACER's Page.\r\nThe web scrapping project scraps data from cricinfo.com.\r\nIt lists the matches that are currently ongoing for the user.\r\nIf the user selects a match then it displays the details about the match.\r\nIt displays the live scores for the user.\r\nThe scores gets updates.\r\n\r\n###Team Size: \r\n2 members\r\n\r\n###Team members:\r\nAkshaya, Nivetha\r\n\r\n###Scripting Language: \r\nPython 2.7.9\r\n\r\n###Packages:\r\nBeautifulsoup4, Configparser, Sys, Pynotify, Requests, Time\r\n\r\n###IDE:\r\nSublime Text\r\n\r\n### History\r\nThis project was developed as a part of my Internship selection process for the expert level training period.\r\nThe project was selected as the best project !!\r\n\r\n\r\n### Authors and Contributors\r\nAkshaya\r\nNivetha\r\n\r\n### Support or Contact\r\nFeel free to share your suggestions and doubts. \r\n\r\n\"Knowledge not shared is knowledge ignored\"",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
