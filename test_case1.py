@@ -22,6 +22,6 @@ class mytest(unittest.TestCase):
 		self.assertEqual(select_match(),yes)
 	
 	def Test_signal_handler(self):
-		self.assertEqual(signal_handler()),'')
+		self.assertEqual(signal_handler(),'')
 
 Unittest.main()
